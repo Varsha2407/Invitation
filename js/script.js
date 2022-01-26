@@ -3,13 +3,9 @@
       $('.sakura-falling').sakura();
 })(jQuery);
 
-//$(document).ready(function(){
-  //  document.getElementById("my_audio").play();
-// });
-
-window.onload = function() {
-    document.getElementById("my_audio").play();
-}
+   $(document).on('click', function(){
+   document.getElementById("my_audio").play();
+});
 
 // Set the date we're counting down to
 var countDownDate = new Date("Feb 10, 2022 21:12:00").getTime();
