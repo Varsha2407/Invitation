@@ -3,7 +3,7 @@
       $('.sakura-falling').sakura();
 })(jQuery);
 
-$(document).on('click', function(){
+$(document).ready(function(){
     document.getElementById("my_audio").play();
 });
 
