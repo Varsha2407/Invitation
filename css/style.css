@@ -523,7 +523,7 @@ body {
 	text-decoration: none;
 	color: #fff;
 }
-
+/*
 .container {
 	display: grid;
 	grid-template-columns: 1fr 1fr;
@@ -556,7 +556,7 @@ body {
 .seconds {
 	background-color: #145689;
 }
-
+*/
 .date {
 	color: #0d6b83;
 	font-weight: 900;
