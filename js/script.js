@@ -34,7 +34,7 @@ var x = setInterval(function() {
         document.getElementById("time").innerHTML = "Bless the married couple for happy life!";
     }
 }, 1000);
-
+/*
 // being a bit cool :p  
 var styles = [
     'background: linear-gradient(#D33106, #571402)'
@@ -66,7 +66,7 @@ var styles2 = [
     , 'font-weight: bold'
     , 'font-size: 32px'
 ].join(';');
-
+*/
 console.log('\n\n%c SAVE THE DATE: 18th Dec, 2021!', styles);
 
 console.log('%cYour presence is requested!%c\n\nRegards: CH.B.N.V Mohasn Raju', styles1, styles2);
