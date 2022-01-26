@@ -527,7 +527,7 @@ body {
 	text-decoration: none;
 	color: #fff;
 }
-/*
+
 .container {
 	display: grid;
 	grid-template-columns: 1fr 1fr;
@@ -544,7 +544,7 @@ body {
 	text-align: center;
 	color: #fff;
 }
-
+/*
 .days {
 	background: linear-gradient(90deg, #b33a46, #9b313c);
 }
