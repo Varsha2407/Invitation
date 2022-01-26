@@ -421,6 +421,7 @@ img {
 	font-style: normal;
 	font-size: 60px;
 	margin: 32px 0;
+	padding: 0;
 	color: #674ea7;
 }
 
@@ -495,7 +496,7 @@ body {
 }
 
 .title {
-	margin-bottom: 40px;
+	margin-bottom: 20px;
 }
 
 #time {
