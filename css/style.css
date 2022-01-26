@@ -453,6 +453,7 @@ img {
 	font-size: 24px;
 	color: #c25069;
 	margin-top: 5px;
+	padding: 0;
 }
 
 .title p {
@@ -496,7 +497,7 @@ body {
 }
 
 .title {
-	margin-bottom: 20px;
+	/* margin-bottom: 20px; */
 }
 
 #time {
