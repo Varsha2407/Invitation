@@ -458,8 +458,8 @@ img {
 
 .title p {
 	color: #48127a;
-	margin: 30px 0 20px;
-	text-transform: uppercase;
+	margin: 15px 0 20px;
+	/*text-transform: uppercase;*/
 	letter-spacing: 3px;
 	font-size: 18px;
 }
