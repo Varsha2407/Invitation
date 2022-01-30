@@ -382,10 +382,10 @@ body {
 	font-family: Arial, Helvetica, Sans-serif;
 }
 
-img {
+/*img {
 	max-width: 100%;
 	height: auto;
-}
+}*/
 
 @media (max-width:900px) {
 	img {
