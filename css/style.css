@@ -437,6 +437,16 @@ img {
 }
 
 .dance-med {
+	/*font-family: 'Dancing Script', cursive;*/
+	font-weight: bolder;
+	font-style: normal;
+	font-size: 22px;
+	color: #674ea7;
+	margin: 16px;
+	text-align: center;
+}
+
+.dance-med1 {
 	font-family: 'Dancing Script', cursive;
 	font-weight: bolder;
 	font-style: normal;
