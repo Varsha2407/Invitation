@@ -412,8 +412,8 @@ img {
 	top:105px;
 	left:395px;
 	display: block;
-	height: auto;
-	width: 60%;
+	/*height: auto;
+	width: 60%;*/
 }
 
 .title h1 {
