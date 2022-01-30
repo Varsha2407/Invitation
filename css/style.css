@@ -389,7 +389,7 @@ img {
 
 @media (max-width:900px) {
 	img {
-		max-width: 80%;
+		max-width: 30%;
 	}
 }
 
@@ -406,7 +406,11 @@ img {
 	left: 0;
 	display: block;
 }
-
+@media (max-width:900px) {
+	img {
+		max-width: 80%;
+	}
+}
 .top-beside-decoration {
 	position: initial;
 	top:105px;
