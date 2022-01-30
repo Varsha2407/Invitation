@@ -388,13 +388,11 @@ img {
 }
 
 @media (max-width:900px) {
-	/*
 	img {
 		max-width: 30%;
-	} */
+	}
 .top-right-decoration {
 	position: absolute;
-	max-width: 30%;
 	top: 0;
 	right: 0;
 	display: block;
@@ -402,7 +400,6 @@ img {
 
 .top-left-decoration {
 	position: absolute;
-	max-width: 30%;
 	top: 0;
 	left: 0;
 	display: block;
